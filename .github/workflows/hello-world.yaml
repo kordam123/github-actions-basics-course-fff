@@ -1,12 +1,12 @@
-name: Hello World
+name: Holla mundo
 
-on:
-  workflow_dispatch:
+on: 
+  push:
 
 jobs:
-  print-hello-world:
+  printa-Holla:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Say hello
-        run: echo "Hello World"
+      - name: HHH
+        run: echo "ooooolllllllllaaaaaaa"
